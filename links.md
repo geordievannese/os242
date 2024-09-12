@@ -16,5 +16,10 @@ This is the official page for the book "Operating Systems: Three Easy Pieces", w
 ### [Link 3: Memory Management Techniques in Operating Systems](https://www.studytonight.com/operating-system/memory-management-in-os)
 This article outlines various memory management techniques used by operating systems, such as paging and segmentation. It’s insightful because managing memory efficiently is critical to ensure smooth functioning of any OS.
 
+### [Link 4: Process Synchronization in Operating Systems](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This page provides a comprehensive overview of process synchronization, explaining the critical section problem and how various algorithms solve it. It’s particularly useful for understanding how to manage concurrent processes.
+
+### [Link 5: CPU Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)
+This link details various CPU scheduling algorithms like Round Robin, Priority Scheduling, and Shortest Job First. It's helpful for grasping how operating systems manage CPU time for processes, ensuring system efficiency.
 <br>
 <hr>
