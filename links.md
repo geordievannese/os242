@@ -27,5 +27,11 @@ This article provides an overview of virtual hard disks (VHD), highlighting the 
 
 ### [Link 7: C Programming Course - 3 Hours](https://www.youtube.com/watch?v=KJgsSFOSQv0)  
 This is a 3-hour video course designed for beginners to learn the basics of C programming. It covers fundamental concepts and gives a thorough introduction to the C language, making it ideal for new programmers.
+
+## [Link 8: Operating System: Scheduling and CPU Utilization](https://youtu.be/26QPDBe-NB8?si=hhL83tydCZkU1vqv)
+This YouTube video explains CPU scheduling and how operating systems utilize CPU resources to maximize efficiency. It’s an engaging way to understand various scheduling techniques and their importance in operating system performance.
+
+## [Link 9: Operating System Process Scheduling Explained](https://youtu.be/dOiA2nNJpc0?si=YOW_sZsSO_xMWrym)
+In this video, you’ll find an easy-to-follow explanation of process scheduling in operating systems, including algorithms like First-Come-First-Serve (FCFS) and Round Robin. It’s a great visual resource for those looking to strengthen their grasp of scheduling concepts.
 <br>
 <hr>
