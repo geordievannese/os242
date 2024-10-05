@@ -33,5 +33,11 @@ This YouTube video explains CPU scheduling and how operating systems utilize CPU
 
 ## [Link 9: Operating System Process Scheduling Explained](https://youtu.be/dOiA2nNJpc0?si=YOW_sZsSO_xMWrym)
 In this video, you’ll find an easy-to-follow explanation of process scheduling in operating systems, including algorithms like First-Come-First-Serve (FCFS) and Round Robin. It’s a great visual resource for those looking to strengthen their grasp of scheduling concepts.
+
+## [Link 10: Virtual Memory] (https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LpfguzkJMdjLQQHn)
+This playlist explains about virtual memory in Linux. It includes page table, address translation, TLB, etc.
+
+## [Link 11: Process Synchronization] (https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)
+This video provide brief explanation about cooperating process, shared memory system, and how race condition can occurs.
 <br>
 <hr>
