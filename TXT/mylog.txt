@@ -38,4 +38,3 @@ ZCZC W05 20 L01 SCELE/Discord related
 ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 10 L04 GitHub Pages related
-ZCZC W06 10 L04 GitHub Pages related
