@@ -45,5 +45,14 @@ This article introduces core concepts surrounding processes in operating systems
 
 ## [Link 13: The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)
 This YouTube video explains the fundamentals of the fork() function in C. By browsing the associated playlist, you can also explore additional Unix process management topics in C, including the wait(), exec() functions, pipes, and more.
+
+## [Link 15 : Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) 
+Read straight from the source, from Linux Foundation.
+
+## [Link 16 : File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)
+A comprehensive short article about File Systems.
+
+## 17. [Linux From Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+Linux From Scratch 12.0 is a book that teaches you how to build your own Linux distribution from scratch. It guides you through the process of compiling and installing the essential components of a Linux system, such as the kernel, the GNU toolchain, and the basic utilities. By following the book, you will learn not only how Linux works, but also how to customize it to your own needs and preferences.
 <br>
 <hr>
